@@ -5,8 +5,16 @@ I am a Software Engineer with a passion for emerging technologies and innovative
 - 👯 I’m looking to collaborate on projects that using `JavaScript` `TypeScript`
 - 💬 Ask me about anythings related to `JavaScript` `TypeScript` `SQL` `SST` | [Ask me here](https://github.com/zee-sandev/zee-sandev/issues)
 
+<div align="center">
+
+## Keep in touch
+	
+<!--[![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=suphachok.chaw@gmail.com&tf=cm)-->
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphachok-chaw)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=suphachok.chaw@gmail.com&tf=cm)
+[![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/zee-sandev/s/XU8EDFaNHc)
+
+</div>
 
 <img src="https://blush.design/api/download?shareUri=2CC873ZoWCpGukho&c=New%2520Palette%25201_0%7Effffff&f=f8c416-6636dd%7E0%7E%7E1&w=800&h=800&fm=png" height="500" alt="Image Description" style="display: block; margin: 0 auto;">
 
@@ -36,7 +44,7 @@ I am a Software Engineer with a passion for emerging technologies and innovative
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
+  	<img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/>
@@ -45,8 +53,18 @@ I am a Software Engineer with a passion for emerging technologies and innovative
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
 </div>
 
+<details>
+
+<summary><b>My GitHub Stats 📈</b></summary>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zee-sandev&show_icons=true&theme=one_dark_pro) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zee-sandev&theme=one_dark_pro&langs_count=8)
+
+</details>
 <!--
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="56" height="56" />
+.
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="56" height="56" /></div>
 -->
 
@@ -61,6 +79,10 @@ I am a Software Engineer with a passion for emerging technologies and innovative
 
 <!--
 **zee-sandev/zee-sandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Badges
+https://github.com/alexandresanlim/Badges4-README.md-Profile/tree/master
+
 
 Here are some ideas to get you started:
 
