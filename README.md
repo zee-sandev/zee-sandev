@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=B6FFFA&vCenter=true&repeat=false&width=600&lines=Hey+there!++You+can+call+me+Joe.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=B6FFFA&vCenter=true&random=true&width=600&lines=Hey+there!++You+can+call+me+Joe.)](https://git.io/typing-svg)
 I am a Software Engineer with a passion for emerging technologies and innovative tech stacks. I am particularly interested in architectural principles and their application in software development.
 
 
