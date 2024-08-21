@@ -5,7 +5,7 @@ I am a Software Engineer with a passion for emerging technologies and innovative
 - 👯 I’m looking to collaborate on projects that using `JavaScript` `TypeScript`
 - 💬 Ask me about anythings related to `JavaScript` `TypeScript` `SQL` `SST` | [Ask me here](https://github.com/zee-sandev/zee-sandev/issues)
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/suphachok-chaw)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphachok-chaw)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=suphachok.chaw@gmail.com&tf=cm)
 
 <img src="https://blush.design/api/download?shareUri=2CC873ZoWCpGukho&c=New%2520Palette%25201_0%7Effffff&f=f8c416-6636dd%7E0%7E%7E1&w=800&h=800&fm=png" height="500" alt="Image Description" style="display: block; margin: 0 auto;">
