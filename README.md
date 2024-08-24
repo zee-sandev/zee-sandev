@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" > [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=B6FFFA&vCenter=true&random=true&width=600&height=26&lines=Hey+there!++You+can+call+me+Zee.)](https://git.io/typing-svg)
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" > [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=B6FFFA&center=true&random=true&width=600&height=40&lines=Hey+there!++You+can+call+me+Zee.)](https://git.io/typing-svg)
 I am a Software Engineer with a passion for emerging technologies and innovative tech stacks. I am particularly interested in architectural principles and their application in software development.
 - 🔭 I’m currently working on [WEDO](https://www.linkedin.com/company/wedotheofficial/mycompany/)
 - ✌️ I'm the founder of [Sandev Team!](https://github.com/sandev-team)
