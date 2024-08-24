@@ -1,4 +1,5 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" > [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=B6FFFA&center=true&random=true&width=600&height=40&lines=Hey+there!++You+can+call+me+Zee.)](https://git.io/typing-svg)
+### <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle;"> --> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=B6FFFA&vcenter=true&random=true&width=600&height=40&lines=Hey+there!++You+can+call+me+Zee.)](https://git.io/typing-svg)
+
 I am a Software Engineer with a passion for emerging technologies and innovative tech stacks. I am particularly interested in architectural principles and their application in software development.
 - 🔭 I’m currently working on [WEDO](https://www.linkedin.com/company/wedotheofficial/mycompany/)
 - ✌️ I'm the founder of [Sandev Team!](https://github.com/sandev-team)
@@ -6,15 +7,15 @@ I am a Software Engineer with a passion for emerging technologies and innovative
 - 👯 I’m looking to collaborate on projects that using `JavaScript` `TypeScript`
 - 💬 Ask me about anythings related to `JavaScript` `TypeScript` `SQL` `SST` | [Ask me here](https://github.com/zee-sandev/zee-sandev/issues)
 
-<div align="center">
 
-## Keep in touch
+<div align="center"> 
+	
+## Keep in touch 
 	
 <!--[![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=suphachok.chaw@gmail.com&tf=cm)-->
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphachok-chaw)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=suphachok.chaw@gmail.com&tf=cm)
 [![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/zee-sandev/s/XU8EDFaNHc)
-
 </div>
 
 <img src="https://blush.design/api/download?shareUri=2CC873ZoWCpGukho&c=New%2520Palette%25201_0%7Effffff&f=f8c416-6636dd%7E0%7E%7E1&w=800&h=800&fm=png" height="500" alt="Image Description" style="display: block; margin: 0 auto;">
