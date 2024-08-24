@@ -1,3 +1,5 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 ### <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle;"> --> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=B6FFFA&vcenter=true&random=true&width=600&height=40&lines=Hey+there!++You+can+call+me+Zee.)](https://git.io/typing-svg)
 
 I am a Software Engineer with a passion for emerging technologies and innovative tech stacks. I am particularly interested in architectural principles and their application in software development.
@@ -7,10 +9,9 @@ I am a Software Engineer with a passion for emerging technologies and innovative
 - 👯 I’m looking to collaborate on projects that using `JavaScript` `TypeScript`
 - 💬 Ask me about anythings related to `JavaScript` `TypeScript` `SQL` `SST` | [Ask me here](https://github.com/zee-sandev/zee-sandev/issues)
 
-
 <div align="center"> 
-	
-## Keep in touch 
+ 
+##  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="30">  Keep in touch  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="30">
 	
 <!--[![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=suphachok.chaw@gmail.com&tf=cm)-->
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphachok-chaw)
