@@ -3,7 +3,7 @@
 ### <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle;"> --> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=B6FFFA&vcenter=true&random=true&width=600&height=40&lines=Hey+there!++You+can+call+me+Zee.)](https://git.io/typing-svg)
 
 I am a Software Engineer with a passion for emerging technologies and innovative tech stacks. I am particularly interested in architectural principles and their application in software development.
-- 🔭 I’m currently working on [WEDO](https://www.linkedin.com/company/wedotheofficial/mycompany/)
+- 🔭 I’m currently working on [MakroPro](https://www.linkedin.com/company/makropro)
 - ✌️ I'm the founder of [Sandev Team!](https://github.com/sandev-team)
 - 🌱 I’m currently learning [SST](https://github.com/sst/sst), [Langchain](https://github.com/langchain-ai/langchain), and cloud architecture.
 - 👯 I’m looking to collaborate on projects that using `JavaScript` `TypeScript`
